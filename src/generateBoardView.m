@@ -1,7 +1,3 @@
-%Max Alger-Meyer 105813822 1320-104 Fleming
-%Ben Zaeske 105928422 1320-104 Fleming
-%Function Stub
-
 function [ newBoardView ] = generateBoardView( boardSize )
 %Generates a new board view of the size specified by boardSize.
 
