@@ -1,7 +1,3 @@
-%Max Alger-Meyer 105813822 1320-104 Fleming
-%Ben Zaeske 105928422 1320-104 Fleming
-%Function Stub
-
 function [ newBoardModel ] = generateBoardModel( boardSize )
 
 %Generates a new board model of the size specified by boardSize.
