@@ -1,7 +1,3 @@
-%Max Alger-Meyer 105813822 1320-104 Fleming
-%Ben Zaeske 105928422 1320-104 Fleming
-%Function Stub
-
 function [ newBoardView ] = revealNearbyKings(row, col, boardView, boardModel )
 %revealNearbyKings returns a board view updated with information regarding
 %nearby kings based on the players move (specified by row and col).
